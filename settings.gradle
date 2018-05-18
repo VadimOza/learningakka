@@ -1,0 +1,3 @@
+rootProject.name = 'akkalearn'
+include 'storelaststring'
+
